@@ -1,0 +1,66 @@
+Link for the Undergrad page:
+https://www.w3schools.com/code/tryit.asp?filename=G07D1VV230E3
+
+
+
+<head>
+<title>
+Undergraduate Program
+</title>
+</head>
+
+<body>
+			<ul>
+                <li><a href="Home.html" title="homepage">Home</a></li>
+                <li><a href="Information System.html" title="Information System">InformationSystem</a></li>
+                <li><a href="ContactUs.html" title="Contact Us">Contact Us</a></li>
+            </ul>
+<h1>
+Bachelors of Science in Information System
+</h1>
+<h3>The required program courses for the Bachelor of Science Degree are below. Course descriptions can be found in the Course Catalog.</h3>
+
+<p>The BS program prepares students for all potential career positions in the IS field. These include: Systems Analysis and Design, Computer Networking and Health Care Informatics.
+
+For successful completion of the degree, all students must satisfy the general education requirements that are explained in the UMBC Undergraduate Catalog.
+
+The required program courses for the Bachelor of Science Degree are below. Course descriptions can be found in the Course Catalog.</p>
+
+<p>Information System:</p>
+<ul>
+<li>IS 300 - Management Information System</li>
+<li>IS 310 - Software and Hardware Concepts</li>
+<li>IS 410 – Introduction to Database Design</li>
+<li>IS 420 – Database Application Development</li>
+<li>IS 425 – Decision Support Systems</li>
+<li>IS 436 – Structured Systems Analysis and Design</li>
+<li>IS 450 – Data Communications and Networks</li>
+<li>IS 451 – Network Design and Management</li>
+<li>IS 3xx or 4xx – Upper Level IS Elective</li>
+</ul>
+
+<p>Mathematics and Computer Science:</p>
+<ul>
+<li>MATH 155 – Applied Calculus</li>
+<li>MATH 215 – Finite Mathematics for Information Sciences</li>
+<li>STAT 351 – Applied Statistics for Business and Economics</li>
+<li>IS 147 – Introduction to Computer Programming</li>
+</ul>
+
+<p>Administrative Science:</p>
+<ul>
+<li>MGMT 210 – The Practice of Management</li>
+<li>ECON 101 – Principles of Microeconomics (SS)</li>
+<li>ECON 102 – Principles of Macroeconomics (SS)</li>
+<li>ECON 121 – Principles of Accounting I</li>
+<li>ECON 122 – Principles of Accounting II</li>
+<li>ENGL 393 – Technical Communication</li>
+</ul>
+
+<p>Notes</p>
+<p>
+Students must earn a grade of “C” or better for any course to be applied to the Information Systems major.
+
+</p>
+</body>
+</html>
